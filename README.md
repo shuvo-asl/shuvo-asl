@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/mehedi_dnt_fci" target="blank"><img src="https://img.shields.io/twitter/follow/mehedi_dnt_fci?logo=twitter&style=for-the-badge" alt="mehedi_dnt_fci" /></a> </p>
 
-- 🔭 I’m currently working on [ADSB Flight Data Processor](https://github.com/shuvo-asl/adsb-sensor-data-processor)
+- 🔭 I’m currently working on [ADSB2.x](https://github.com/shuvo-asl/adsb2.x)
 
-- 🌱 I’m currently trying to understand In depth of **PHP, Laravel**
+- 🌱 I’m currently learning on **Advance JS, Node JS**
 
 - 📝 I regularly write articles on [Linkedin](Linkedin)
 
