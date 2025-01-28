@@ -32,5 +32,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvo-asl&show_icons=true&locale=en" alt="shuvo-asl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvo-asl" alt="shuvo-asl" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvo-asl" alt="Strek Stats Not Found" /></p>
 
